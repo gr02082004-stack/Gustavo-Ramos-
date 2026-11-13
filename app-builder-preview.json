@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "UMBRA",
+      "hasCanvas": false,
+      "bodyTextLen": 222,
+      "bodyTextHash": "37da2e54f49695489fa63705b2a0fcd0926b28657a6e6a8ceed751a4172f6b07",
+      "bodyTextPrefix": "UMBRA Você foi escolhido. Um sistema se vinculou à sua vida. Mis",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "UMBRA",
+      "hasCanvas": false,
+      "bodyTextLen": 222,
+      "bodyTextHash": "37da2e54f49695489fa63705b2a0fcd0926b28657a6e6a8ceed751a4172f6b07",
+      "bodyTextPrefix": "UMBRA Você foi escolhido. Um sistema se vinculou à sua vida. Mis",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
